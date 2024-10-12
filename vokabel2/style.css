@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    height: 100vh;
+}
+
+
+
+.page-content{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+align-items: center;
+text-align: center;
+}
+.mdl-textfield {
+    width: 80%;
+    margin: 70px;
+}
+
